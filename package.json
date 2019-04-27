@@ -1,0 +1,14 @@
+{
+  "name": "clickflow-lighthouse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "JP Narowski",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "lighthouse": "^4.3.0"
+  }
+}
